@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">App1_Andrew</string>
+    <string name="app_name">App_Andrew</string>
+    <string name="changed_textview_and_background">changed textView and background</string>
 </resources>
