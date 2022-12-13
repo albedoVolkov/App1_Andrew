@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">App1_Andrew</string>
+    <string name="app_name">App_Andrew</string>
+    <string name="change_background_and_text">change background and text</string>
 </resources>
